@@ -841,3 +841,22 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2985.029140 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a3aa945f9bbc98ea94cf40858958474') in 0.535651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.756969 seconds.
+  path: Assets/Font/Kenney Mini Square.ttf
+  artifactKey: Guid(cc62d9f5fc084466e98a53534efd73e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/Kenney Mini Square.ttf using Guid(cc62d9f5fc084466e98a53534efd73e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4fb44c74ea2ee42a8da7876709ef74') in 0.967841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 191.620905 seconds.
+  path: Assets/Font/Kenney Mini Square SDF.asset
+  artifactKey: Guid(bf30cf55dfe694773bcf1d4311159586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/Kenney Mini Square SDF.asset using Guid(bf30cf55dfe694773bcf1d4311159586) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: 'a0fcc2954a94125678af2c0601e73ef1') in 0.228812 seconds 
