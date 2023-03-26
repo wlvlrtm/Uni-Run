@@ -201,3 +201,51 @@ Received Import Request.
   path: Assets/Audio/music.wav
   artifactKey: Guid(4dd43bb437e454be4a5cffc8d1065c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Audio/music.wav using Guid(4dd43bb437e454be4a5cffc8d1065c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c28f36128ba4993cf4862e9f098840ed') in 0.008813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 423.338046 seconds.
+  path: Assets/Sprites/Toko_Jump.png
+  artifactKey: Guid(f716f7502ddb743ef982e4d223876d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toko_Jump.png using Guid(f716f7502ddb743ef982e4d223876d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '268bfb9b81c9828123d3d8ee765bb4bd') in 0.031878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51.071682 seconds.
+  path: Assets/Sprites/Toko_Die.png
+  artifactKey: Guid(5b9cf154823f6440b9c40d54c5d1bdad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toko_Die.png using Guid(5b9cf154823f6440b9c40d54c5d1bdad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5155ca4d448f8025b46596b4deea4ef') in 0.030374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.636842 seconds.
+  path: Assets/Animations/Die.anim
+  artifactKey: Guid(c662a45c48d7e4cfa9207b97c4c3dd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Die.anim using Guid(c662a45c48d7e4cfa9207b97c4c3dd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970cb1712d7cda78c9048e11d0125d35') in 0.062634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.802878 seconds.
+  path: Assets/Animations/Jump.anim
+  artifactKey: Guid(53f1ff732053c4ad1be56baa335e34a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Jump.anim using Guid(53f1ff732053c4ad1be56baa335e34a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded332eaa133d7a7e72c5b88cf2ef884') in 0.002797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.081373 seconds.
+  path: Assets/Animations/Run.anim
+  artifactKey: Guid(a430d4af302c6418fa280256547e82e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Run.anim using Guid(a430d4af302c6418fa280256547e82e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '254ff7aea7d842f8e3eae46456bc170f') in 0.002410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.514917 seconds.
+  path: Assets/Animations/Player.controller
+  artifactKey: Guid(75051a476a7b2404db979b60a5fa1a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player.controller using Guid(75051a476a7b2404db979b60a5fa1a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67acea06f1efbe27fefecf86f67350aa') in 0.066037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.895229 seconds.
+  path: Assets/Animations/Die.anim
+  artifactKey: Guid(c662a45c48d7e4cfa9207b97c4c3dd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Die.anim using Guid(c662a45c48d7e4cfa9207b97c4c3dd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560ea8f6cc2185a7027e280bcceeb8f2') in 0.002433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 233.553005 seconds.
+  path: Assets/Animations/Run.anim
+  artifactKey: Guid(a430d4af302c6418fa280256547e82e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Run.anim using Guid(a430d4af302c6418fa280256547e82e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc6b889b66d215d03b3b69264fb12747') in 0.002610 seconds 
