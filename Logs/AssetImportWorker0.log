@@ -171,3 +171,21 @@ Received Import Request.
   path: Assets/Scripts/GameManager.cs
   artifactKey: Guid(d0a745ad4e51e495cad65585c3073da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/GameManager.cs using Guid(d0a745ad4e51e495cad65585c3073da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d37ce4538a2fe1dc8cdd3acb65e437') in 0.130797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1764.400383 seconds.
+  path: Assets/Sprites/Toko_Run.png
+  artifactKey: Guid(d7159a67a357942ef8404ce06e20db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toko_Run.png using Guid(d7159a67a357942ef8404ce06e20db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e361ad08a756400ff9b9a38496dcbb') in 0.787717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.637474 seconds.
+  path: Assets/Sprites/Toko_Run.png
+  artifactKey: Guid(d7159a67a357942ef8404ce06e20db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toko_Run.png using Guid(d7159a67a357942ef8404ce06e20db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b518f245650ba72f6e498da7436ed3a0') in 0.008747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 87.171884 seconds.
+  path: Assets/Sprites/Toko_Run.png
+  artifactKey: Guid(d7159a67a357942ef8404ce06e20db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toko_Run.png using Guid(d7159a67a357942ef8404ce06e20db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd37d0ac2cb9efb8646c80f58bbff09c') in 0.025274 seconds 
