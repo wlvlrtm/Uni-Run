@@ -12,6 +12,7 @@ public class PlatformSpawner : MonoBehaviour {
     public float yMin = -3.5f; // 배치할 위치의 최소 y값
     public float yMax = 1.5f; // 배치할 위치의 최대 y값
     private float xPos = 20f; // 배치할 위치의 x 값
+    private float yPos = 0f;  // 배치할 위치의 y 값
 
     private GameObject[] platforms; // 미리 생성한 발판들
     private int currentIndex = 0; // 사용할 현재 순번의 발판
@@ -22,9 +23,38 @@ public class PlatformSpawner : MonoBehaviour {
 
     void Start() {
         // 변수들을 초기화하고 사용할 발판들을 미리 생성
+        this.platforms = new GameObject[this.count];
+
+        for (int i = 0; i < this.count; i++) {
+            this.platforms[i] = Instantiate(this.platformPrefab, this.poolPosition, Quaternion.identity);
+        }
+
+        this.lastSpawnTime = 0f;
+        this.timeBetSpawn = 0f;
     }
 
     void Update() {
         // 순서를 돌아가며 주기적으로 발판을 배치
+        if (GameManager.instance.isGameover) {
+            return;
+        }
+
+        if (Time.time >= this.lastSpawnTime + this.timeBetSpawn) {
+            this.lastSpawnTime = Time.time;
+            this.timeBetSpawn = Random.Range(this.timeBetSpawnMin, this.timeBetSpawnMax);
+
+            this.yPos = Random.Range(this.yMin, this.yMax);
+
+            this.platforms[this.currentIndex].SetActive(false);
+            this.platforms[this.currentIndex].SetActive(true);
+
+            this.platforms[this.currentIndex].transform.position = new Vector2(this.xPos, this.yPos);
+
+            this.currentIndex++;
+
+            if (this.currentIndex >= this.count) {
+                this.currentIndex = 0;
+            }
+        }
     }
 }
